@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+networkx = "*"
+matplotlib = "*"
+tqdm = "*"
+sklearn = "*"
+torch = "*"
+python-Levenshtein = "*"
+gensim = "*"
+ipykernel = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
