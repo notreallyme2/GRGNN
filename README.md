@@ -1,6 +1,20 @@
 GRGNN -- Gene Regulatory Graph Neural Network
 ===============================================================================
 
+Forked from <https://github.com/juexinwang/GRGNN>
+
+## New notes - LME
+
+
+* changed from `install.sh` to `pipenv` to manage dependencies
+* updated `install.sh` to run on OSX
+* no need to preprocess data, but data need to be moved up a folder level after unzipping
+
+
+
+
+## Original README below this line
+-----
 About
 -----
 
