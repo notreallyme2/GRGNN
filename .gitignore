@@ -2,5 +2,5 @@
 *.pickle
 *.npy
 .vscode/
-.DS_store
+.DS_Store
 Pipfile.lock
